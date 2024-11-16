@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "685317412084",
+    "project_id": "callingapp-18bcd",
+    "storage_bucket": "callingapp-18bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685317412084:android:6cb6a0626b915ff6f7faa1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685317412084-h0r6g9oqg9td8q65rd00cqfnrkc21p1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5eXjfZFh6xIeK3ch28TubPpzh1sivio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685317412084-h0r6g9oqg9td8q65rd00cqfnrkc21p1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685317412084:android:2922736ab6cee293f7faa1",
+        "android_client_info": {
+          "package_name": "com.callingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685317412084-h0r6g9oqg9td8q65rd00cqfnrkc21p1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5eXjfZFh6xIeK3ch28TubPpzh1sivio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685317412084-h0r6g9oqg9td8q65rd00cqfnrkc21p1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
